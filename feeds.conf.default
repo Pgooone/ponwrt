@@ -9,3 +9,9 @@ src-git pon_userspace https://github.com/pbs05/openwrt-pon-userspace.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git openclash https://github.com/vernesong/OpenClash.git;master
+src-git passwall_packages https://github.com/Openwrt-Passwall/openwrt-passwall-packages.git;main
+src-git passwall https://github.com/Openwrt-Passwall/openwrt-passwall.git;main
+src-git passwall2 https://github.com/Openwrt-Passwall/openwrt-passwall2.git;main
+src-git helloworld https://github.com/fw876/helloworld.git;master
+src-git nikki https://github.com/nikkinikki-org/OpenWrt-nikki.git;main
+src-git momo https://github.com/morytyann/OpenWrt-momo.git;main
